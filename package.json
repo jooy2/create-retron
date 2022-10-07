@@ -13,14 +13,15 @@
     "test": "node index.js"
   },
   "keywords": [
-    "vue",
-    "vue3",
+    "react",
+    "reactjs",
     "template",
     "skeleton",
     "electron",
     "vite",
-    "pinia",
-    "vuetify"
+    "mui",
+    "material-ui",
+    "cross-platform"
   ],
   "devDependencies": {
     "eslint": "^8.24.0",
