@@ -1,7 +1,7 @@
 {
 	"name": "create-retron",
 	"type": "module",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Vite + Electron + React + Material-UI Template",
 	"homepage": "https://github.com/jooy2/retron",
 	"repository": {

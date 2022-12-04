@@ -12,7 +12,7 @@ lib/
 .git/
 .terserrc
 .eslintignore
-.eslintrc.cjs
+.eslintrc.json
 .editorconfig
 .prettierrc
 .prettierignore
